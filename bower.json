@@ -1,9 +1,6 @@
 {
     "name":         "backbone.chaining",
     "version":      "0.0.1",
-    "dependencies": {
-        "require-css": "*"
-    },
     "main":         [
         "overrides.json"
     ]
